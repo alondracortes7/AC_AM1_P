@@ -1,1 +1,2 @@
-Códigos de clase y también como práctica en casa.ㅤㅤ
+
+Profesor, dentro de la carpeta códigos, ahi se encuentran los códigos ordenados y corregidos
